@@ -95,7 +95,7 @@ Each of the other players chooses to play 1 Weapon card or suffer 1 wound. Harml
 ### Tea Ceremony
 Draw 3 cards from the deck. Each of the other players draws 1 card from the deck.
 
-## The Characters
+## The Characters (Health Points)
 Unless your Character card says otherwise, you may use your abilities as many times as you wish (if possible).
 
 ### Benkei (5)
