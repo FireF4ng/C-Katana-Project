@@ -11,7 +11,7 @@
   - All cards show a symbol in the lower right corner, reserved for future expansions
 - 1 summary card with a scoring overview
 - 30 Honor Points
-- 36 Resilience Points
+- 36 Health Points
 
 ## Object of the Game
 Players are divided into three (secret) teams:
@@ -21,11 +21,11 @@ Players are divided into three (secret) teams:
 For each team, the aim of the game is to gather the most Honor Points or to have the last man standing.
 
 ## The Characters
-Your character has a unique special ability. Each character also has a Resilience value, which tells you how many wounds you may suffer before being “Defeated”.
+Your character has a unique special ability. Each character also has a Health value, which tells you how many wounds you may suffer before being “Defeated”.
 
 ### Harmless Characters
 You are considered “Harmless” in either of these situations:
-- You have no Resilience Points; or
+- You have no Health Points; or
 - You have no cards in your hand.
 If you are Harmless:
 - You cannot be the target of Weapon cards;
@@ -46,13 +46,13 @@ In order to target another character with a Weapon card, you must first check th
 The main way to deal wounds to other characters is to attack them by playing a Weapon card. Each Weapon card shows two numbers: The top number shows the maximum Difficulty you may attack with that card; the lower number shows how many wounds that Weapon will deal if it hits.
 
 ## Defeating a Player
-If you lose your last Resilience Point, you are “Defeated”! You must give one of your Honor Points to the player who Defeated you.
+If you lose your last Health Point, you are “Defeated”! You must give one of your Honor Points to the player who Defeated you.
 
 ## End of the Game
 At any time, if one or more players have no Honor Points left, the game ends immediately. All players now reveal their Role cards and add up their score.
 
 ### Victory of the Swordmaster
-If at any time there is only one player with any Resilience Points, the game ends immediately, and that player’s team wins the game.
+If at any time there is only one player with any Health Points, the game ends immediately, and that player’s team wins the game.
 
 ## Special Rules for 3 Players
 One player is randomly dealt the Shogun card. The other two players are Ninjas. The Shogun begins with 6 Honor Points, and each Ninja starts with 3 Honor Points. The game is played as normal with some exceptions.
@@ -66,7 +66,7 @@ Whenever a card contradicts the rules, the card takes precedence!
 Each of the other players chooses to play a parry or suffer 1 wound. Harmless players are not affected by the Battle Cry.
 
 ### Breathing
-You regain all your lost Resilience Points (i.e., you heal all of your wounds). Then, 1 other player of your choice (not you!) draws 1 card from the deck. You cannot heal other players. Breathing can be played even if you have all of your Resilience Points.
+You regain all your lost Health Points (i.e., you heal all of your wounds). Then, 1 other player of your choice (not you!) draws 1 card from the deck. You cannot heal other players. Breathing can be played even if you have all of your Health Points.
 
 ### Bushido
 Play this card in front of any player, regardless of Difficulty and even if he is Harmless. If Bushido is in front of you at the end of your Recover Phase, you must flip over and discard the top card in the deck. The effect of Bushido depends on the card you turn over:
