@@ -191,7 +191,7 @@ int Game::selectionCible(Joueur& joueur) {
 
     std::cin >> selection;
 
-    int adjustedSelection = -1;
+    int adjustedSelection = 0;
     displayedIndex = 0; // Reset displayed index for reiteration
     for (const Joueur& tmpjoueur : ListeJoueur) {
         if (tmpjoueur.getName() != joueur.getName() && !tmpjoueur.getIncapacite()) {
